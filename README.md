@@ -35,10 +35,9 @@ Please keep in mind that the links provided may not be the official website of t
 - [**Septentrio**](https://www.septentrio.com/en)
 - [**SingularXYZ**](SingularXYZ)
 - [**SinoGNSS ComNAV**](http://www.comnavtech.com/)
-
 - [**Spectra Geospatial**](https://spectrageospatial.com/)
 - [**Spectra Precisions**](https://www.spectralasers.com/)
 - [**South instrument**](https://www.southinstrument.com/)
 - [**Stonex**](https://www.stonex.it/)
 - [**SXBlueSmart**](www.sxbluegps.com)
-- [**Tallysman**](https://www.tallysman.com/)"
+- [**Tallysman**](https://www.tallysman.com/)
