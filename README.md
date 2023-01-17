@@ -2,7 +2,7 @@
 You wish to add or change something? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/Awesome_GNSSreceivers/pulls) or an [issue](https://github.com/mvarga1989/Awesome_GNSSreceivers/issues).
 
 Please keep in mind that the links provided may not be the official website of the company and the company may have changed since my knowledge cut-off.
-
+<div style="text-align:center">
 | Manufacturer Name | Website |
 | --- | --- |
 | Trimble | https://www.trimble.com/ |
@@ -43,3 +43,4 @@ Please keep in mind that the links provided may not be the official website of t
 | Stonex | https://www.stonex.it/ |
 | SXBlueSmart | https://www.sxbluegps.com/ |
 | Tallysman | https://www.tallysman.com/ |
+</div>
