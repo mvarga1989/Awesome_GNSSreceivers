@@ -7,6 +7,7 @@
 - [**AllNav**](https://allnav.com/)
 - [**BadElf**](https://bad-elf.com/)
 - [**CarlsonSw**](https://www.carlsonsw.com/)
+- [**ComNAV**](https://comnav.com/)
 - [**Champion**](http://www.championinstruments.com/index.html)
 - [**ESurvey GNSS**](https://esurvey-gnss.com/product/survey)
 - [**EFT**](https://www.eft-gnss.ru/)
@@ -30,7 +31,8 @@
 - [**SatLab**](https://www.satlab.com.se/)
 - [**Septentrio**](https://www.septentrio.com/en)
 - [**SingularXYZ**](SingularXYZ)
-- [**SinoGNSS ComNAV**](http://www.comnavtech.com/)**](https://comnav.com/)
+- [**SinoGNSS ComNAV**](http://www.comnavtech.com/)
+
 - [**Spectra Geospatial**](https://spectrageospatial.com/)
 - [**Spectra Precisions**](https://www.spectralasers.com/)
 - [**South instrument**](https://www.southinstrument.com/)
