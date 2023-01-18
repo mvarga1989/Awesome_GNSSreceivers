@@ -1,7 +1,7 @@
 # Community list of GNSS receiver manufacturers
 You wish to add or change something? Please send me an [email](mailto:mvarga1989@gmail.com), create a [pull request](https://github.com/mvarga1989/Awesome_GNSSreceivers/pulls) or an [issue](https://github.com/mvarga1989/Awesome_GNSSreceivers/issues).
 
-Please keep in mind that the links provided may not be the official website of the company and the company may have changed since my last update.
+Please keep in mind that the links provided may not be the official website of the company and they may have changed since my last update.
 
 <center>
   
